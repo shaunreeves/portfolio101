@@ -1,7 +1,7 @@
 # Portfolio 101
 ![Pro Dev 101 Logo](https://github.com/shaunreeves/portfolio101/blob/main/docs/images/avatar.jpg)
 
-## Everything you need to know about creating a portfolio for the games industry. 
+### Everything you need to know about creating a portfolio for the games industry. 
 
 Portfolio 101 EROL at Staffordshire University. Want to know more, get in touch with Shaun. 
 
